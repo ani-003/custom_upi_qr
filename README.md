@@ -3,7 +3,7 @@
 
 This project provides a reusable and responsive **UPI QR Code Modal** component built using **React**, **MUI**, and **qrcode.react**. It generates a valid UPI payment QR code that users can scan to make payments via apps like GPay, PhonePe, Paytm, BHIM, and others.
 
-![UPI QR Screenshot](https://github.com/ani-003/custom_upi_qr/blob/main/screenshots/Screenshot%202025-05-10%20013935.png)) 
+![UPI QR Screenshot](https://github.com/ani-003/custom_upi_qr/blob/main/screenshots/Screenshot%202025-05-10%20013935.png)
 
 ---
 
